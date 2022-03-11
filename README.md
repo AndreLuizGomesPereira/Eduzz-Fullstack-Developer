@@ -1,3 +1,13 @@
+# Estudando TypeScript com parcel-bundler
+
+### Instalação do pacote
+>> `npm i parcel-bundler`
+
+
+
+
+
+
 # Ferramenta de testes para automação
 
 ### - Primeiro vamos iniciciar o projeto e em seguida instalar o Mocha em ambiente Dev.
